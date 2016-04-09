@@ -1,0 +1,32 @@
+[17:41:37] [Client thread/INFO]: Setting user: Player42
+[17:41:37] [Client thread/INFO]: (Session ID is token:0:Player42)
+[17:41:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:41:38] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:41:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:41:39] [Client thread/WARN]: File minecraft:sounds/mob/ghast/fireball.ogg does not exist, cannot add it to event minecraft:item.fireCharge.use
+[17:41:39] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[17:41:39] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:41:39] [Thread-8/INFO]: OpenAL initialized.
+[17:41:39] [Sound Library Loader/INFO]: Sound engine started
+[17:41:42] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:41:47] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[17:41:47] [Server thread/INFO]: Generating keypair
+[17:41:47] [Server thread/INFO]: Preparing start region for level 0
+[17:41:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:41:48] [Server thread/INFO]: Player42[local:E:71a2b145] logged in with entity id 212 at (-444.3953555185387, 70.0, -153.2335211598972)
+[17:41:48] [Server thread/INFO]: Player42 加入了游戏
+[17:42:49] [Server thread/INFO]: Player42 刚刚获得了 [打开物品栏] 成就！
+[17:42:49] [Client thread/INFO]: [CHAT] Player42 刚刚获得了 [打开物品栏] 成就！
+[17:45:09] [Server thread/INFO]: Saving and pausing game...
+[17:45:09] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/Overworld
+[17:45:09] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/Nether
+[17:45:09] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/The End
+[17:48:36] [Client thread/INFO]: Stopping!
+[17:48:36] [Client thread/INFO]: SoundSystem shutting down...
+[17:48:36] [Server thread/INFO]: Stopping server
+[17:48:36] [Server thread/INFO]: Saving players
+[17:48:36] [Server thread/INFO]: Saving worlds
+[17:48:36] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/Overworld
+[17:48:36] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/Nether
+[17:48:36] [Server thread/INFO]: Saving chunks for level 'New Worldfzl'/The End
+[17:48:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
