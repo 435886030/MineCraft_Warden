@@ -111,7 +111,7 @@ public class Explosion
                                 var14 -= (var24 + 0.3F) * 0.3F;
                             }
 
-                            if (var14 > 0.0F && (this.exploder == null || this.exploder.func_174816_a(this, this.worldObj, var22, var23, var14)))
+                            if (/*var14 > 0.0F && */(this.exploder == null || this.exploder.func_174816_a(this, this.worldObj, var22, var23, var14)))
                             {
                                 var1.add(var22);
                             }

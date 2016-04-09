@@ -8,7 +8,7 @@ public class Start
 {
     public static void main(String[] args)
     {
-        Main.main(concat(new String[] {"--version", "mcp", "--accessToken", "0", "--assetsDir", "assets", "--assetIndex", "1.8", "--userProperties", "{}"}, args));
+        Main.main(concat(new String[] {/*"--port","25565","--server","127.0.0.1",*/"--version", "mcp", "--accessToken", "0", "--assetsDir", "assets", "--assetIndex", "1.8", "--userProperties", "{}"}, args));
     }
 
     public static <T> T[] concat(T[] first, T[] second)
